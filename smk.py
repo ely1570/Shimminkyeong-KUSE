@@ -1,3 +1,12 @@
 print('Hello World')
 print("Hey, girl. You're so pretty!")
 print("Could you give me a phone number?")
+
+print("Oh, Okay")
+print("Then, When will we do the date?")
+print("You can choose the date.")
+print("You should anwser to me: Year, Month, Day")
+Year = input("Year: ")
+Month = input("Year: ")
+Day = input("Year: ")
+print("{}년 {}월 {}일".format(Year, Month, Day))
